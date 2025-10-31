@@ -1,5 +1,25 @@
 # CTFp - CTF Pilot's CTF Platform
 
+## What is CTFp?
+
+CTFp is a platform for hosting ctf hosting and management project, which helps organizers host and develop competitions, events, workshops or something else. 
+
+## Background
+
+CTF Pilot started as a CTF Platform project, originating in **[Brunnerne](https://github.com/brunnerne)**.
+
+## Roadmap
+
+BLA BLA
+
+## Showcasse
+
+BLA BLA
+
+## Setup
+
+GUIDE HERE
+
 ## Contributing
 
 We welcome contributions of all kinds, from **code** and **documentation** to **bug reports** and **feedback**!
@@ -12,10 +32,6 @@ To administrate the CLA signing process, we are using **[CLA assistant lite](htt
 
 *A copy of the CLA document is also included in this repository as [`CLA.md`](../CLA.md).*  
 *Signatures are stored in the [`cla` repository](https://github.com/ctfpilot/cla).*
-
-## Background
-
-CTF Pilot started as a CTF Platform project, originating in **[Brunnerne](https://github.com/brunnerne)**.
 
 ## License
 
